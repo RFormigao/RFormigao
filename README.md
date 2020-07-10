@@ -1,16 +1,14 @@
-### Hi there 👋
+# Robson Formigão :man_technologist:
 
-<!--
-**RFormigao/RFormigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/RFormigao)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/rformigaogomes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rformigao.gomes@gmail.com)](mailto:rformigao.gomes@gmail.com)
 
-Here are some ideas to get you started:
+### Hello! Welcome to my profile 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Robson Formigão and I'm front-end developer.
+
+- 🖤 In love with technology
+- 🔭 I’m currently working on [Alboom Brasil](https://www.alboompro.com/)
+- 🌱 I’m currently learning React, React Native and Node
+- ⚡ Theodoro's father 🐶
