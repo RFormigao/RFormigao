@@ -11,4 +11,4 @@ My name is Robson Formigão and I'm front-end developer.
 - 🖤 &nbsp; In love with technology
 - 🔭 &nbsp; I’m currently working on [Alboom Brasil](https://www.alboompro.com/)
 - 🌱 &nbsp; I’m currently learning React, React Native and Node
-- ⚡ &nbsp; Theodoro's father 🐶
+- ⚡ &nbsp; Theodoro's and Tom's father 🐶
