@@ -8,6 +8,5 @@
 My name is Robson Formigão and I'm front-end developer.
 
 - 🖤 &nbsp; In love with technology
-- 🔭 &nbsp; I’m currently working on [Agrotis](https://www.agrotis.com/)
 - 🌱 &nbsp; I’m currently learning NextJS, React, React Native and Node
 - ⚡ &nbsp; Theodoro's and Tom's father 🐶
